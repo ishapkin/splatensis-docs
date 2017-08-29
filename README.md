@@ -1,2 +1,2 @@
 # splatensis-docs
-Documentation for administration dplstensis market
+Documentation for administration splatensis market
